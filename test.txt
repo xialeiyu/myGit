@@ -1,2 +1,1 @@
-abcdefg
-git gui study
+sub dir
